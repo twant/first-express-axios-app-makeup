@@ -10,3 +10,10 @@ img{
 .card .card-text{
   min-height:250px;  
 }
+
+#center-box{
+    width:60%;
+    margin-left:20%;
+    margin-top:10%;
+    height:auto;
+}
