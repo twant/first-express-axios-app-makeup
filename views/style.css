@@ -1,0 +1,12 @@
+img{
+    width:100%;
+}
+
+.card {
+   
+    min-height:400px;
+}
+
+.card .card-text{
+  min-height:250px;  
+}
